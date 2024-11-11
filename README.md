@@ -1,10 +1,16 @@
 Face Recognition using K-Nearest Neighbors (KNN)
+
+
 Project Overview
+
 This project implements face recognition using the K-Nearest Neighbors (KNN) algorithm, which is a simple and effective method for classification tasks. The goal of this project is to recognize and classify human faces from images or video frames by comparing them to a set of known faces stored in a dataset.
+
 
 The KNN algorithm works by finding the 'K' closest samples to the input data (in this case, the face to be recognized) and assigning the most frequent class among those neighbors.
 
+
 Features
+
 Face Detection: Uses OpenCV's Haar Cascade Classifier to detect faces in an image.
 Face Recognition: KNN algorithm is applied to classify the detected faces by comparing them to a known dataset of faces.
 Dataset Support: You can train the model on your own dataset by adding labeled face images.
