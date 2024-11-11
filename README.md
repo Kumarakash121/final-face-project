@@ -95,7 +95,6 @@ dataset/
 │   └── img2.jpg
 
 └── person3/
-
     └── img1.jpg
 	
 Step 2: Train the Model
